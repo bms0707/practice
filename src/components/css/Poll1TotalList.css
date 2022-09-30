@@ -1,0 +1,53 @@
+.info .totalList{
+    width: 93.3%;
+    height: 14rem;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19),
+    0 6px 6px rgba(0,0,0,0.23);
+    margin: 3em;
+    margin-left: 3.5em;
+    display: flex;
+    border-top: 3px solid plum;
+}
+
+.info .selects{
+    width: 93.3%;
+    height: 2rem;
+    margin-top: 4em;
+    margin-left: 3.5em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info .selects select{
+    width: 10em;
+}
+
+.info .list{
+    width: 93.3%;
+    height: 21rem;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19),
+    0 6px 6px rgba(0,0,0,0.23);
+    border-top: 3px solid black;
+    margin-top: 0.5em;
+    margin-left: 3.5em;
+    display: flex;
+}
+
+.info .creates{
+    width: 93.3%;
+    height: 10em;
+    margin-left: 3.5em;
+    display: flex;
+    justify-content: center;
+}
+
+.info .creates button{
+    width: 12rem;
+    height: 3rem;
+    margin-right: 20px;
+    margin-top: 3.5rem;
+    border: none;
+    background: plum;
+    color: white;
+    cursor: pointer;
+}

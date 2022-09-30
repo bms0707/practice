@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "title":"기본 관리",
+        "icon": "<MdIcons.MdOutlineSettings/>",
+        "cName": "nav-text",
+        "iconClosed": "<IoIcons.IoIosArrowDown/>",
+        "childrens":[
+            {
+                "id": 1,
+                "title":"소메뉴1",
+                "path":"/menu1"
+            },
+            {
+                "id": 2,
+                "title":"소메뉴2",
+                "path":"/menu2"
+            },
+            {
+                "id": 3,
+                "title":"소메뉴3",
+                "path":"/menu3"
+            },
+            {
+                "id": 4,
+                "title":"소메뉴4",
+                "path":"/menu4"
+            },
+            {
+                "id": 5,
+                "title":"소메뉴5",
+                "path":"/menu5"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title":"회원 관리",
+        "icon": "<RiIcons.RiUserLine/>",
+        "cName": "nav-text",
+        "iconClosed": "<IoIcons.IoIosArrowDown/>",
+        "childrens":[
+            {
+                "id": 1,
+                "title":"소메뉴1",
+                "path":"/menu1"
+            },
+            {
+                "id": 2,
+                "title":"소메뉴2",
+                "path":"/menu2"
+            },
+            {
+                "id": 3,
+                "title":"소메뉴3",
+                "path":"/menu3"
+            },
+            {
+                "id": 4,
+                "title":"소메뉴4",
+                "path":"/menu4"
+            },
+            {
+                "id": 5,
+                "title":"소메뉴5",
+                "path":"/menu5"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title":"1차 폴",
+        "icon": "<AiIcons.AiOutlineUnorderedList/>",
+        "cName": "nav-text",
+        "iconClosed": "<IoIcons.IoIosArrowDown/>",
+        "childrens":[
+            {
+                "id": 1,
+                "title":"소메뉴1",
+                "path":"/menu1"
+            },
+            {
+                "id": 2,
+                "title":"소메뉴2",
+                "path":"/menu2"
+            },
+            {
+                "id": 3,
+                "title":"소메뉴3",
+                "path":"/menu3"
+            },
+            {
+                "id": 4,
+                "title":"소메뉴4",
+                "path":"/menu4"
+            },
+            {
+                "id": 5,
+                "title":"소메뉴5",
+                "path":"/menu5"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title":"2차 폴",
+        "icon": "<BsIcons.BsListCheck/>",
+        "cName": "nav-text",
+        "iconClosed": "<IoIcons.IoIosArrowDown/>",
+        "childrens":[
+            {
+                "id": 1,
+                "title":"소메뉴1",
+                "path":"/menu1"
+            },
+            { 
+                "id": 2,
+                "title":"소메뉴2",
+                "path":"/menu2"
+            },
+            {
+                "id": 3,
+                "title":"소메뉴3",
+                "path":"/menu3"
+            },
+            {
+                "id": 4,
+                "title":"소메뉴4",
+                "path":"/menu4"
+            },
+            {
+                "id": 5,
+                "title":"소메뉴5",
+                "path":"/menu5"
+            }
+        ]
+    }
+]

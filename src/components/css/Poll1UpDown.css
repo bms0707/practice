@@ -1,0 +1,53 @@
+.info .inputQuestion{
+    width: 75rem;
+    height: 10rem;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19),
+    0 6px 6px rgba(0,0,0,0.23);
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+
+.info .inputQuestion>.question{
+    width: 75rem;
+    height: 3rem;
+    border-bottom: 1px solid black;
+    float: left;
+}
+
+.info .inputQuestion .input{
+    width: 75rem;
+    height: 7rem;
+    float: left;
+}
+
+.info .addImgQuestion{
+    width: 75rem;
+    height: 15rem;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19),
+    0 6px 6px rgba(0,0,0,0.23);
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+}
+
+.info .addImgQuestion>.question{
+    width: 75rem;
+    height: 3rem;
+    border-bottom: 1px solid black;
+    float: left;
+}
+
+.info .addImgQuestion .addImg{
+    width: 75rem;
+    height: 12rem;
+    float: left;
+}
+
+.info .preview{
+    width: 20rem;
+    height: 40rem;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19),
+    0 6px 6px rgba(0,0,0,0.23);
+    position: absolute;
+    right: 5rem;
+    top: 6.7rem;
+}

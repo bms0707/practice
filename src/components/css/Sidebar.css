@@ -1,0 +1,36 @@
+.sideheader{  
+    width: 200px;
+    height: 100%;
+    justify-content: center;
+    background: rgb(10, 37, 112);
+}
+
+.sideheader .logo{
+    width: 200px;
+    height: 60px;
+    background: rgb(44, 45, 112);
+}
+
+.sideheader .nav-menu{
+    width: 200px;
+    color: white;
+}
+
+.sideheader .nav-menu>.nav-text>span{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    margin: 0 30px 0 10px;
+}
+
+.sideheader .nav-menu .nav-text{
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sideheader .nav-menu .nav-text:hover{
+    background: rgb(22, 60, 163);
+}
